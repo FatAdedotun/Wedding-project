@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Web application for soon-to-be couples so they can send to loved ones and well-wishers for gifts. Should be integrated with paystack with time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatAdedotun/wedding-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatAdedotun/wedding-project/issues"
+  },
+  "homepage": "https://github.com/FatAdedotun/wedding-project#readme"
+}
